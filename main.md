@@ -16,8 +16,9 @@
 
 Cамые популярные ОС, которые есть на данный момент:
 
-1. Windows
-2. Mac OS
-3. Linux
-4. IOS
-5. Android
+1. **Windows**
+2. **Mac OS**
+3. **Linux**
+4. **IOS**
+5. **Android**  
+
